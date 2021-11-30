@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="D:\Anu Documents\transfer\Anu Documents\flutter course\mi_card\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.0.1"
+    buildFolder="D:\Anu Documents\transfer\Anu Documents\flutter course\mi_card\build\app"
+    bootClassPath="C:\Users\LENOVO\AppData\Local\Android\sdk\platforms\android-29\android.jar;C:\Users\LENOVO\AppData\Local\Android\sdk\build-tools\30.0.2\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-29">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

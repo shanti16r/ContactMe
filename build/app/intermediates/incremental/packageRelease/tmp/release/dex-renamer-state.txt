@@ -1,0 +1,4 @@
+#Tue Nov 30 18:17:14 IST 2021
+base.0=D\:\\Anu Documents\\transfer\\Anu Documents\\flutter course\\mi_card\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
